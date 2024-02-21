@@ -1,7 +1,7 @@
-countries_file=open('/media/khalid/Coding/Practices/python/python_basics/text/countries.txt','r') # for reading
-# open('/media/khalid/Coding/Practices/python/python_basics/text/countries.txt','w') #for writing
-# open('/media/khalid/Coding/Practices/python/python_basics/text/countries.txt','a') #for appending
-# open('/media/khalid/Coding/Practices/python/python_basics/text/countries.txt','r+') # for reading and writing
+countries_file=open('/media/khalid/Coding/Practices/python/python_basics/files/countries.txt','r') # for reading
+# open('/media/khalid/Coding/Practices/python/python_basics/files/countries.txt','w') #for writing
+# open('/media/khalid/Coding/Practices/python/python_basics/files/countries.txt','a') #for appending
+# open('/media/khalid/Coding/Practices/python/python_basics/files/countries.txt','r+') # for reading and writing
 
 # print(countries_file.readline()) # it will print the first line from the file
 # print(countries_file.readline()) # it will print the second line from the file
